@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84951322-F77D-47EE-AAE0-DF1C8E0C36CA}"
+	ProjectSection(SolutionItems) = preProject
+		api.js = api.js
+		package.json = package.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3F58FE4F-7560-4DD0-856E-164282D982FD}"
+	ProjectSection(SolutionItems) = preProject
+		index.js = index.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F58FE4F-7560-4DD0-856E-164282D982FD} = {84951322-F77D-47EE-AAE0-DF1C8E0C36CA}
+	EndGlobalSection
+EndGlobal
